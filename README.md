@@ -1,2 +1,2 @@
 # Vjaps
-Analysis, Design, Development &amp; Testing
+Analysis, Design, Development, Testing & Documentation
